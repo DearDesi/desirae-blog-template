@@ -1,0 +1,9 @@
+themes:
+  ruhoh-twitter:
+    datamapper: 'ruhoh'
+    pageLayout: 'page'
+    postLayout: 'post'
+  ruhoh-bootstrap-2:
+    datamapper: 'ruhoh'
+    pageLayout: '_root'
+    postLayout: 'posts'
