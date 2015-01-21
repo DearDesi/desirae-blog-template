@@ -2,8 +2,8 @@ themes:
   ruhoh-twitter:
     datamapper: 'ruhoh'
     pageLayout: 'page'
-    postLayout: 'posts'
+    postLayout: 'post'
   ruhoh-bootstrap-2:
     datamapper: 'ruhoh'
     pageLayout: '_root'
-    postLayout: 'post'
+    postLayout: 'posts'
