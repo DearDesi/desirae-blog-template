@@ -1,4 +1,6 @@
 ---
+stylesheet_link: |
+  <link href="{{{ url }}}" type="text/css" rel="stylesheet" media="all">
 amazon_link_enhancer: |
   <!-- amazon -->
   <script async="true" type="text/javascript" src="http://wms.assoc-amazon.com/20070822/US/js/link-enhancer-common.js?tag={{ amazon_affiliate_id }}">
