@@ -3,6 +3,9 @@ This is your blog
 
 Congrats, you've downloaded Desi's blog template and you're ready to begin.
 
+If you're looking at this online and haven't downloaded it yet,
+go to <http://dear.desi> to get started.
+
 Setup with Desi
 ---------------
 
